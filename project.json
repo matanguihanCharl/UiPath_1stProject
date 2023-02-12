@@ -1,7 +1,7 @@
 {
   "name": "matanguihanCharl_1stProject",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Main_File.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.17.0-preview]",
     "UiPath.Mail.Activities": "[1.18.2]",
@@ -47,8 +47,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "e28eff85-4b59-41c0-ad81-4ffa28f81349",
+      "filePath": "Main_File.xaml",
+      "uniqueId": "5697cb7e-19c8-4aef-b8bd-1a7ad32342dd",
       "input": [],
       "output": []
     }
